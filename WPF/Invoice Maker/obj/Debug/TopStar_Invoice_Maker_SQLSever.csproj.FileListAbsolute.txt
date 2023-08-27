@@ -1,0 +1,520 @@
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+C:\Users\Kevin\OneDrive - hk sar baomin inc\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+D:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+E:\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+F:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+E:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+G:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe.config
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.exe
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\TopStar_Invoice_Maker_SQLSever.pdb
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.AppContext.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Console.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Diagnostics.StackTrace.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.Compression.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.IO.FileSystem.Primitives.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Algorithms.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Encoding.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.Primitives.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Text.Encoding.CodePages.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Threading.Thread.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.ValueTuple.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.ReaderWriter.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XmlDocument.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Xml.XPath.XDocument.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\WPFToolkit.dll
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\EPPlus.xml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Collections.Immutable.xml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\bin\Debug\System.Reflection.Metadata.xml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csprojAssemblyReference.cache
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Clinic\UC_Clinic.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Receivable\UC_Receiable.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Product\UC_Product.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\App.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.cache
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever_MarkupCompile.lref
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\MainWindow.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Inventory\UC_Inventory_Maker.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Invoice\UC_Invoice_Maker.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Opening_Stock\UC_Opening_Stock_Editor.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Stament\UC_Statement.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\Supplier\UC_Supplier.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\Views\UI\UC_Left_Right_V1.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_ReceivedPayment.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\W_Statement.baml
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.g.resources
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.Properties.Resources.resources
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.GenerateResource.cache
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CoreCompileInputs.cache
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.csproj.CopyComplete
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.exe
+S:\Google Drive\System Development\TopStar_Invoice_Maker_SQLSever\TopStar_Invoice_Maker_SQLSever\obj\Debug\TopStar_Invoice_Maker_SQLSever.pdb
