@@ -1,0 +1,37 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TopStar_Invoice_Maker_SQLSever.Views.UI.Supplier"
+             xmlns:Controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Input.Toolkit" x:Class="TopStar_Invoice_Maker_SQLSever.Views.UI.Supplier.UC_Supplier"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Label Content="Supplier ID.:" HorizontalAlignment="Left" Margin="20,58,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,2.741" Height="25"/>
+        <Controls:AutoCompleteBox Height="26" HorizontalAlignment="Left" Margin="103,57,0,0" x:Name="txtSupplierID" VerticalAlignment="Top" Width="236" ValueMemberPath="Supplier_ID" GotFocus="txtSupplierID_GotFocus" LostFocus="txtSupplierID_LostFocus" >
+            <Controls:AutoCompleteBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Supplier_ID}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                        <TextBlock Text="{Binding Company}" FontWeight="Bold"  Foreground="Black" Width="300" />
+                    </StackPanel>
+                </DataTemplate>
+            </Controls:AutoCompleteBox.ItemTemplate>
+        </Controls:AutoCompleteBox>
+
+        <Label Content="Supplier" HorizontalAlignment="Left" Height="53" VerticalAlignment="Top" Width="276" FontSize="36" FontWeight="Bold"/>
+        <TextBox x:Name="txtCompany" HorizontalAlignment="Left"  Height="29" Margin="103,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" TextAlignment="Left"/>
+        <Label Content="Company :" HorizontalAlignment="Left" Margin="20,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,2.741"/>
+
+        <TextBox x:Name="txtCurrency" HorizontalAlignment="Left"  Height="29" Margin="103,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80" TextAlignment="Left"/>
+        <Label Content="Currency :" HorizontalAlignment="Left" Margin="20,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,2.741"/>
+
+        <TextBox x:Name="txtExchangeRate" HorizontalAlignment="Left"  Height="29" Margin="305,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80" TextAlignment="Left"/>
+        <Label Content="Exchange Rate :" HorizontalAlignment="Left" Margin="202,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.333,2.741"/>
+
+        <Button x:Name="btnCreate"  Content="Save" HorizontalAlignment="Left" Margin="106,178,0,0" VerticalAlignment="Top" Width="133" Height="30" Click="btnCreate_Click"/>
+        <Button x:Name="btnClear"  Content="Clear" HorizontalAlignment="Left" Margin="244,178,0,0" VerticalAlignment="Top" Width="133" Height="30" Click="btnClear_Click"/>
+        
+    </Grid>
+</UserControl>

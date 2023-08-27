@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="TopStar_Invoice_Maker_SQLSever.Views.UI.Receivable.UC_Receiable"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Input.Toolkit"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500">
+    <Grid>
+        <Label Content="Payment Date:" HorizontalAlignment="Left" Margin="243,8,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtPaymentDate" HorizontalAlignment="Left" Height="23" Margin="334,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" LostFocus="txtPaymentDate_LostFocus" GotFocus="txtPaymentDate_GotFocus"/>
+        <Label Content="Record ID:" HorizontalAlignment="Left" Margin="16,48,0,0" VerticalAlignment="Top" Width="110"/>
+        <Controls:AutoCompleteBox Height="30" HorizontalAlignment="Left" Margin="132,45,0,0" x:Name="txtReceivableID" VerticalAlignment="Top" Width="198" ValueMemberPath="receivable_Record_ID" >
+            <Controls:AutoCompleteBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Invoice_ID}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                        <TextBlock Text="{Binding Clinic_Name}" FontWeight="Bold"  Foreground="Black" Width="300" />
+                        <TextBlock Text="{Binding District}" FontWeight="Bold"  Foreground="Black" Width="200" />
+                        <TextBlock Text="{Binding Invoice_Date}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                    </StackPanel>
+                </DataTemplate>
+            </Controls:AutoCompleteBox.ItemTemplate>
+        </Controls:AutoCompleteBox>
+
+        
+        <Controls:AutoCompleteBox Height="23" HorizontalAlignment="Left" Margin="132,80,0,0" x:Name="txtClinicID" VerticalAlignment="Top" Width="160" ValueMemberPath="Clinic_ID" GotFocus="txtClinicID_GotFocus" LostFocus="txtClinicID_LostFocus" >
+            <Controls:AutoCompleteBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Clinic_ID}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                        <TextBlock Text="{Binding Clinic_Name}" FontWeight="Bold"  Foreground="Black" Width="300" />
+                    </StackPanel>
+                </DataTemplate>
+            </Controls:AutoCompleteBox.ItemTemplate>
+        </Controls:AutoCompleteBox>
+
+        
+        <Label Content="Payment Method:" HorizontalAlignment="Left" Margin="16,107,0,0" VerticalAlignment="Top" Width="110"/>
+        <Controls:AutoCompleteBox x:Name="txtPaymentMethod" VerticalAlignment="Top" Margin="132,108,247,0" Height="24" />
+
+        <Label Content="Bank in Date:" HorizontalAlignment="Left" Margin="15,135,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtBankinDate" HorizontalAlignment="Left" Height="23" Margin="132,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="138" LostFocus="txtBankinDate_LostFocus" GotFocus="txtBankinDate_GotFocus"/>
+        <Label Content="Amount:" HorizontalAlignment="Left" Margin="16,160,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtPayment" HorizontalAlignment="Left" Height="23" Margin="132,162,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="121"/>
+        <Label Content="Charges:" HorizontalAlignment="Left" Margin="256,163,0,0" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="txtCharges" HorizontalAlignment="Left" Height="23" Margin="320,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="107" RenderTransformOrigin="1.736,0.609"/>
+        <Label Content="Invoice:" HorizontalAlignment="Left" Margin="20,267,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Remark:" HorizontalAlignment="Left" Margin="17,188,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtRemark" HorizontalAlignment="Left" Height="74" Margin="132,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="297" AcceptsTab="True" AcceptsReturn="True" IsEnabled="True"/>
+        <Controls:AutoCompleteBox Height="23" HorizontalAlignment="Left" Margin="132,269,0,0" x:Name="txtInvoiceID" VerticalAlignment="Top" Width="121" ValueMemberPath="Invoice_ID" GotFocus="txtInvoiceID_GotFocus" LostFocus="txtInvoiceID_LostFocus" >
+            <Controls:AutoCompleteBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Invoice_ID}" FontWeight="Bold"  Foreground="Black" Width="130" />
+                        <TextBlock Text="{Binding Invoice_Date}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                        <TextBlock Text="{Binding Total}" FontWeight="Bold"  Foreground="Black" Width="150" />
+                        <TextBlock Text="{Binding Due_Date}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                    </StackPanel>
+                </DataTemplate>
+            </Controls:AutoCompleteBox.ItemTemplate>
+        </Controls:AutoCompleteBox>
+
+        <Label Content="Payment Receivables" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="241" FontSize="20"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="386,48,0,0" VerticalAlignment="Top" Width="98" Click="btnSave_Click" Height="37" />
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="386,90,0,0" VerticalAlignment="Top" Width="98" Click="btnClear_Click" Height="27" />
+        <Label Content="Total:" HorizontalAlignment="Left" Margin="259,267,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label x:Name="lblTotal" Content="" HorizontalAlignment="Left" Margin="332,267,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="Clinic ID:" HorizontalAlignment="Left" Margin="14,79,0,0" VerticalAlignment="Top" Width="110"/>
+        <ListView x:Name="lstInvoice" HorizontalAlignment="Left" Height="177" Margin="10,307,0,-4" VerticalAlignment="Top" Width="417" MouseDoubleClick="lstInvoice_MouseDoubleClick" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="110" Header="Invoice ID" DisplayMemberBinding="{Binding Invoice_ID}"  />
+                    <GridViewColumn Width="100" Header="Invoice Date" DisplayMemberBinding="{Binding Invoice_Date}" />
+                    <GridViewColumn Width="100" Header="Total" DisplayMemberBinding="{Binding Total}" />
+                    <GridViewColumn Width="100" Header="Due Date" DisplayMemberBinding="{Binding Due_Date}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnAddToList" Content="Add" HorizontalAlignment="Left" Margin="433,276,0,0" VerticalAlignment="Top" Width="57" Click="btnAddToList_Click" Height="27" Visibility="Hidden" />
+        
+        
+    </Grid>
+</UserControl>

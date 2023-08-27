@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Clinic="clr-namespace:TopStar_Invoice_Maker_SQLSever.Views.UI.Clinic" 
+        xmlns:Product="clr-namespace:TopStar_Invoice_Maker_SQLSever.Views.UI.Product" 
+        xmlns:Invoice="clr-namespace:TopStar_Invoice_Maker_SQLSever.Views.UI.Invoice" 
+        xmlns:UI="clr-namespace:TopStar_Invoice_Maker_SQLSever.Views.UI" x:Class="TopStar_Invoice_Maker_SQLSever.MainWindow" 
+        mc:Ignorable="d"
+        Title="Dental Inovice Quick  (Version 2.4.2.7.4.76_beta)" Height="840" Width="1400" Icon="Dental.ico" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <!--<Menu IsMainMenu="True" Margin="0,0,0,780">
+            <MenuItem Header="New">
+                <MenuItem Header="New Clinic" />
+                <MenuItem Header="New Product" />
+                <MenuItem x:Name="Men_Statement" Header="New Statement" Click="Men_Statement_Click" />
+            </MenuItem>
+            <MenuItem Header="Receivable">
+                <MenuItem Header="Payment Received" Click="PAYMENT_RECEIVED_Click" />
+
+            </MenuItem>
+            <MenuItem x:Name="Men_About" Header="關於" Click="Men_About_Click" />
+        </Menu>-->
+        <DockPanel>
+            <UI:UC_Left_Right_V1 HorizontalAlignment="Left" Height="802" Margin="0,0,0,0" VerticalAlignment="Top" Width="1395"/>    
+        </DockPanel>
+        
+    </Grid>
+
+</Window>

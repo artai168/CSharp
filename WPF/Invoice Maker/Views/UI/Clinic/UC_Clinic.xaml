@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="TopStar_Invoice_Maker_SQLSever.Views.UI.Clinic.UC_Clinic"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:my="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Input.Toolkit"
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:DesignWidth="600">
+    <Grid >
+        <Label Content="Clinic ID:" HorizontalAlignment="Left" Margin="57,44,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Clinic Name:" HorizontalAlignment="Left" Margin="57,73,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="59,159,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Contact Person:" HorizontalAlignment="Left" Margin="57,102,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Telephone:" HorizontalAlignment="Left" Margin="59,130,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Delivery:" HorizontalAlignment="Left" Margin="57,256,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="District:" HorizontalAlignment="Left" Margin="57,231,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Ship To Informations" HorizontalAlignment="Left" Margin="38,330,0,0" VerticalAlignment="Top" Width="241" FontSize="20"/>
+        <Label Content="General Informations" HorizontalAlignment="Left" Margin="38,10,0,0" VerticalAlignment="Top" Width="241" FontSize="20"/>
+        <my:AutoCompleteBox Height="23" HorizontalAlignment="Left" Margin="172,45,0,0" x:Name="txtClinicID" VerticalAlignment="Top" Width="160" ValueMemberPath="Clinic_ID" GotFocus="txtClinicID_GotFocus" LostFocus="txtClinicID_LostFocus" >
+            <my:AutoCompleteBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Clinic_ID}" FontWeight="Bold"  Foreground="Black" Width="100" />
+                        <TextBlock Text="{Binding Clinic_Name}" FontWeight="Bold"  Foreground="Black" Width="300" />
+                    </StackPanel>
+                </DataTemplate>
+            </my:AutoCompleteBox.ItemTemplate>
+        </my:AutoCompleteBox>
+
+
+        <TextBox x:Name="txt_Clinic" HorizontalAlignment="Left" Height="23" Margin="172,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273"/>
+        <TextBox x:Name="txt_Clinic_Contact" HorizontalAlignment="Left" Height="23" Margin="172,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="txt_Clinic_Tel" HorizontalAlignment="Left" Height="23" Margin="172,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="txt_Clinic_Add" HorizontalAlignment="Left" Height="69" Margin="172,159,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273" AcceptsReturn="True"/>
+        <my:AutoCompleteBox x:Name="txtDistrict" VerticalAlignment="Top" Margin="172,233,223,0" Height="24" GotFocus="txtDistrict_GotFocus" />
+        <my:AutoCompleteBox x:Name="txtDelivery" VerticalAlignment="Top" Margin="172,260,321,0" Height="24" />
+        <my:AutoCompleteBox x:Name="txtPayment" VerticalAlignment="Top" Margin="413,260,80,0" Height="24" />
+        <my:AutoCompleteBox x:Name="txtSalesPerson" VerticalAlignment="Top" Margin="172,289,268,0" Height="24" />
+        <Label Content="Discount:" HorizontalAlignment="Left" Margin="337,288,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="txtDiscount" HorizontalAlignment="Left" Height="23" Margin="413,288,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="107" LostFocus="txtDiscount_LostFocus"/>
+        
+        <Label Content="Clinic Name:" HorizontalAlignment="Left" Margin="60,367,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="62,453,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Contact Person:" HorizontalAlignment="Left" Margin="60,396,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Telephone:" HorizontalAlignment="Left" Margin="62,424,0,0" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="btnCopy" Content="Copy" HorizontalAlignment="Left" Margin="279,340,0,0" VerticalAlignment="Top" Width="98" Click="btnCopy_Click" />
+        <TextBox x:Name="txt_ShipTo_Clinic" HorizontalAlignment="Left" Height="23" Margin="172,367,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" IsEnabled="True"/>
+        <TextBox x:Name="txt_ShipTo_Contact" HorizontalAlignment="Left" Height="23" Margin="172,396,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" IsEnabled="True"/>
+        <TextBox x:Name="txt_ShipTo_Tel" HorizontalAlignment="Left" Height="23" Margin="172,424,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205" IsEnabled="True"/>
+        <TextBox x:Name="txt_ShipTo_Add" HorizontalAlignment="Left" Height="74" Margin="172,453,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="273" AcceptsReturn="True" IsEnabled="True"/>
+        <Label Content="Payment Terms:" HorizontalAlignment="Left" Margin="298,256,0,0" VerticalAlignment="Top" Width="110"/>
+        <!--<Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="450,38,0,0" VerticalAlignment="Top" Width="98" Click="btnSave_Click" Height="41" />-->
+        <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="450,84,0,0" VerticalAlignment="Top" Width="98" Click="btnClear_Click" Height="27" />
+        <Label Content="Sales:" HorizontalAlignment="Left" Margin="57,286,0,0" VerticalAlignment="Top" Width="110"/>
+        
+
+
+
+
+
+
+
+    </Grid>
+</UserControl>
