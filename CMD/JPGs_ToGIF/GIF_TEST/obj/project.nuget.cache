@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnecFKClhyGWGKlJbbb6FhbLSZSmFFsNb+scx8bYPKfprf7IDi7EoKV+ipv19MWmd7+hnS8tRRwpmNYDG+vAXA==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive\\System Development\\CMD\\GIF_TEST\\GIF_TEST\\GIF_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\magick.net-q16-anycpu\\7.21.1\\magick.net-q16-anycpu.7.21.1.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\magick.net.core\\4.1.0\\magick.net.core.4.1.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
