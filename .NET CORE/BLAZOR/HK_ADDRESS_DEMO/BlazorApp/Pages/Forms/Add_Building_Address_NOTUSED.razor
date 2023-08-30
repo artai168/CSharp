@@ -1,0 +1,411 @@
+﻿@using BlazorApp.Entities
+@page "/Forms/AddBuilding"
+@inject Data.Services.IAddress_Service<Entities.Building_Address> Building_Address_Service
+@inject NavigationManager NavigationManager
+@using Blazored.Typeahead
+
+
+<h3>Search and Add Building Address</h3>
+
+<EditForm Model="@address" OnValidSubmit="@AddressInsert">
+    <table>
+        <tr>
+            <td>大廈 :</td>
+            <td><input type="text" value="@address.Building_C" @onchange="(ChangeEventArgs _event) => Bud_C_Changed(_event.Value.ToString())" required /></td>
+        </tr>
+        <tr>
+            <td>Building :</td>
+            <td><input type="text" value="@address.Building_E" @onchange="(ChangeEventArgs _event) => Bud_E_Changed(_event.Value.ToString())" required /></td>
+        </tr>
+        <tr>
+            <td>門牌 / Street Number:</td>
+            <td><input type="text" @bind="address.Street_Num" /></td>
+        </tr>
+        <tr>
+            <td>街道 :</td>
+            <td><input type="text" value="@address.Street_C" @onchange="(ChangeEventArgs _event) => Street_C_Changed(_event.Value.ToString())" /></td>
+        </tr>
+        <tr>
+            <td>Street :</td>
+            <td><input type="text" value="@address.Street_E" @onchange="(ChangeEventArgs _event) => Street_E_Changed(_event.Value.ToString())" /></td>
+        </tr>
+        <tr>
+            <td>分區 :</td>
+            <!--<td><input type="text" value="@address.District_C" @onchange="(ChangeEventArgs _event) => District_C_Changed(_event.Value.ToString())" /></td>-->
+
+            <td>
+                <BlazoredTypeahead SearchMethod="Search_Districts_C" @bind-Value="_selectedDistrict" >
+                    <SelectedTemplate Context="select">@select.District_C</SelectedTemplate>
+                    <ResultTemplate Context="result">@result.District_C (@result.Area_C)</ResultTemplate>
+                </BlazoredTypeahead>
+            </td>
+
+        </tr>
+        <tr>
+            <td>District :</td>
+            <!--<td><input type="text" value="@address.District_E" @onchange="(ChangeEventArgs _event) => District_E_Changed(_event.Value.ToString())" /></td>-->
+            <td>
+                <BlazoredTypeahead SearchMethod="Search_Districts_E" @bind-Value="_selectedDistrict">
+                    <SelectedTemplate Context="select">@select.District_E</SelectedTemplate>
+                    <ResultTemplate Context="result">@result.District_E (@result.Area_E)</ResultTemplate>
+                </BlazoredTypeahead>
+            </td>
+        </tr>
+
+        <tr>
+            <td>區 :</td>
+            <!--<td><input type="text" value="@address.Area_C" @onchange="(ChangeEventArgs _event) => Area_C_Changed(_event.Value.ToString())" /></td>-->
+            <td>
+                <BlazoredTypeahead SearchMethod="Search_Area_C" @bind-Value="_selectedDistrict">
+                    <SelectedTemplate Context="select">@select.Area_C</SelectedTemplate>
+                    <ResultTemplate Context="result">@result.Area_C</ResultTemplate>
+                </BlazoredTypeahead>
+            </td>
+        </tr>
+        <tr>
+            <td>Area :</td>
+            <!--<td><input type="text" value="@address.Area_E" @onchange="(ChangeEventArgs _event) => Area_E_Changed(_event.Value.ToString())" /></td>-->
+            <td>
+                <BlazoredTypeahead SearchMethod="Search_Area_E" @bind-Value="_selectedDistrict">
+                    <SelectedTemplate Context="select">@select.Area_E</SelectedTemplate>
+                    <ResultTemplate Context="result">@result.Area_E</ResultTemplate>
+                </BlazoredTypeahead>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <input type="submit" value="Add" @onclick="@AddressInsert" />
+                <input type="button" value="Cancel" @onclick="@Cancel" />
+            </td>
+
+        </tr>
+    </table>
+
+</EditForm>
+
+<div> @_theValue </div>
+
+
+@code 
+{
+    //Create a new, empty Building_Address object
+
+    string _theValue = "";
+    Entities.Building_Address address = new Building_Address();
+    Entities.Building_Address _selectedDistrict = new Building_Address();
+
+    private IEnumerable<Entities.Building_Address> district_List;
+    private IEnumerable<Entities.Building_Address> area_List;
+    //Executes on opage open, set defaults on page
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        LoadData();
+    }
+
+    private async Task LoadData()
+    {
+        district_List = await Building_Address_Service.GetAll_District();
+        area_List = await Building_Address_Service.GetAll_Area();
+    }
+
+
+    private async Task<IEnumerable<Entities.Building_Address>> Search_Districts_C(string inStr)
+    {
+        IEnumerable<Entities.Building_Address> tempList = await Task.FromResult(district_List.Where(x => x.District_C.Contains(inStr) || x.Area_C.Contains(inStr)));
+            if (!string.IsNullOrEmpty(inStr))
+        {
+            //tempList = await Task.FromResult(district_List.Where(x => x.District_C.Contains(inStr) || x.Area_C.Contains(inStr)));
+                if (tempList?.Any() != true)
+            {
+                tempList.First().District_C = inStr;
+            }
+        }
+        return tempList;
+    }
+
+    private async Task<IEnumerable<Entities.Building_Address>> Search_Districts_E(string inStr)
+    {
+        IEnumerable<Entities.Building_Address> tempList = await Task.FromResult(district_List.Where(x => x.District_E.Contains(inStr) || x.Area_E.Contains(inStr)));
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            //tempList = await Task.FromResult(district_List.Where(x => x.District_E.Contains(inStr) || x.Area_E.Contains(inStr)));
+            if (tempList?.Any() == null)
+            {
+                tempList.First().District_E = inStr;
+            }
+        }
+
+        return tempList;
+    }
+
+    private async Task<IEnumerable<Entities.Building_Address>> Search_Area_C(string inStr)
+    {
+        IEnumerable<Entities.Building_Address> tempList = await Task.FromResult(area_List.Where(x => x.Area_C.Contains(inStr)));
+
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            //tempList = await Task.FromResult(area_List.Where(x => x.Area_C.Contains(inStr)));
+
+            if (tempList?.Any() == null)
+            {
+                tempList.First().Area_C = inStr;
+            }
+        }
+
+        return tempList;
+    }
+
+    private async Task<IEnumerable<Entities.Building_Address>> Search_Area_E(string inStr)
+    {
+        IEnumerable<Entities.Building_Address> tempList = await Task.FromResult(area_List.Where(x => x.Area_E.Contains(inStr)));
+
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            //tempList = await Task.FromResult(area_List.Where(x => x.Area_E.Contains(inStr)));
+            if (tempList?.Any() == null)
+            {
+                tempList.First().Area_E = inStr;
+            }
+        }
+
+        return tempList;
+    }
+
+    protected async Task Bud_C_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address = new Building_Address();
+            address.Building_C = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Building_C, 1);
+            if (_address != null)
+            {
+                address = _address;
+                _selectedDistrict = _address;
+            }
+            else
+            {
+                _theValue = $"Error: Can not find the Building: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task Bud_E_Changed(string inStr)
+    {
+        //bool building_C_has_value = !string.IsNullOrEmpty(address.Building_C);
+        //bool street_C_has_value = !string.IsNullOrEmpty(address.Street_C);
+        //if ((building_C_has_value) && (street_C_has_value))
+        //{
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.Building_E = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Building_E, 2);
+            if (_address != null)
+            {
+                address = _address;
+                _selectedDistrict = _address;
+            }
+            else
+            {
+                _theValue = $"Error: Can not find the Building: {inStr}!";
+            }
+        }
+        //}
+    }
+
+    protected async Task Street_C_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.Street_C = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Street_C, 3);
+            if (_address != null)
+            {
+                address.Street_C = _address.Street_C;
+                address.Street_E = _address.Street_E;
+                address.District_C = _address.District_C;
+                address.District_E = _address.District_E;
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.District_C = _address.District_C;
+                _selectedDistrict.District_E = _address.District_E;
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                _theValue = $"Error: Can not find the Street: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task Street_E_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.Street_E = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Street_E, 4);
+            if (_address != null)
+            {
+                address.Street_C = _address.Street_C;
+                address.Street_E = _address.Street_E;
+                address.District_C = _address.District_C;
+                address.District_E = _address.District_E;
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.District_C = _address.District_C;
+                _selectedDistrict.District_E = _address.District_E;
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                _theValue = $"Error: Can not find the Street: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task District_C_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.District_C = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.District_C, 5);
+            if (_address != null)
+            {
+                address.District_C = _address.District_C;
+                address.District_E = _address.District_E;
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.District_C = _address.District_C;
+                _selectedDistrict.District_E = _address.District_E;
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                address.District_C = inStr;
+                _selectedDistrict.District_C = inStr;
+
+                _theValue = $"Error: Can not find the District: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task District_E_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.District_E = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.District_E, 6);
+            if (_address != null)
+            {
+                address.District_C = _address.District_C;
+                address.District_E = _address.District_E;
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.District_C = _address.District_C;
+                _selectedDistrict.District_E = _address.District_E;
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                address.District_E = inStr;
+                _selectedDistrict.District_E = inStr;
+                _theValue = $"Error: Can not find the District: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task Area_C_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.Area_C = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Area_C, 7);
+            if (_address != null)
+            {
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                address.Area_C = inStr;
+                _selectedDistrict.Area_C = inStr;
+                _theValue = $"Error: Can not find the Area: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task Area_E_Changed(string inStr)
+    {
+        if (!string.IsNullOrEmpty(inStr))
+        {
+            Entities.Building_Address _address = new Building_Address();
+            address.Area_E = inStr.Trim();
+            _address = await Building_Address_Service.Get_Address(address.Area_E, 8);
+            if (_address != null)
+            {
+                address.Area_C = _address.Area_C;
+                address.Area_E = _address.Area_E;
+
+                _selectedDistrict.Area_C = _address.Area_C;
+                _selectedDistrict.Area_E = _address.Area_E;
+            }
+            else
+            {
+                address.Area_E = inStr;
+                _selectedDistrict.Area_E = inStr;
+                _theValue = $"Error: Can not find the Area: {inStr}!";
+            }
+        }
+    }
+
+    protected async Task AddressInsert()
+    {
+        if (!string.IsNullOrEmpty(address.Building_C))
+        {
+            address.District_C = _selectedDistrict.District_C;
+            address.District_E = _selectedDistrict.District_E;
+            address.Area_C = _selectedDistrict.Area_C;
+            address.Area_E = _selectedDistrict.Area_E;
+
+            await Building_Address_Service.Insert_Address(address);
+            _theValue = $"Action: Record saved to Database -->{ address.Building_C}";
+
+            CleanForm();
+        }
+    }
+
+    private void Cancel()
+    {
+        CleanForm();
+
+        _theValue = $"Action: Cancel Button just clicked! ";
+    }
+
+    private void CleanForm()
+    {
+        NavigationManager.NavigateTo("/Forms/AddBuilding");
+        address = new Building_Address();
+        _selectedDistrict = new Building_Address();
+    }
+
+
+}

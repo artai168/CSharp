@@ -1,0 +1,58 @@
+﻿@using BlazorApp.Entities
+@page "/Data/ShowBuildings"
+@inject Data.Services.IAddress_Service<Entities.Building_Address> Building_Address_Service
+
+
+<h3>Building Address List</h3>
+<!--
+<p style="text-align:center">
+    <a href="/Forms/AddBuilding"> Add new Building Address</a>
+</p>
+    -->
+@if (the_Building_Address == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <table class="TFtable">
+        <tr>
+            <th width="12%">建築物</th>
+            <th width="7%">街號 / Street No.</th>
+            <th width="8%">街道</th>
+            <th width="4%">分區</th>
+            <th width="4%">區</th>
+            <th width="25%">Building</th>
+            <th width="20%">Street</th>
+            <th width="10%">District</th>
+            <th width="10%">Area</th>
+        </tr>
+        @foreach (Entities.Building_Address building_Address in the_Building_Address)
+        {
+            <tr>
+                <td>@building_Address.Building_C</td>
+                <td>@building_Address.Street_Num</td>
+                <td>@building_Address.Street_C</td>
+                <td>@building_Address.District_C</td>
+                <td>@building_Address.Area_C</td>
+                <td>@building_Address.Building_E</td>
+                <td>@building_Address.Street_E</td>
+                <td>@building_Address.District_E</td>
+                <td>@building_Address.Area_E</td>
+            </tr>
+        }
+
+    </table>
+}
+
+
+
+@code {
+    IEnumerable<Entities.Building_Address> the_Building_Address;
+
+    protected override async Task OnInitializedAsync()
+    {
+        the_Building_Address = await Building_Address_Service.GetAll_Address();
+    }
+
+}
